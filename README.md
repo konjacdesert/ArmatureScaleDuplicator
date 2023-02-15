@@ -1,0 +1,3 @@
+# ArmatureScaleDuplicator
+
+Armature以下のGameObjectのScaleのみをコピー・ペーストできる機能を追加するUnityEditor拡張です。
